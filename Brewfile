@@ -12,3 +12,4 @@ brew "zsh"
 brew "zsh-completions"
 brew "z"
 brew "nvm"
+brew clipy
